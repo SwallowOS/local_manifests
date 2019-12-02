@@ -5,6 +5,7 @@
   <project name="LineageOS/android_kernel_xiaomi_cancro" path="kernel/xiaomi/cancro" />
   <project name="LineageOS/proprietary_vendor_xiaomi_cancro" path="vendor/xiaomi/cancro" />
 -->
+<!--<project name="LineageOS/XServer-XSDL-android-src" path="external/XServer-XSDL-android-src" />-->
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" />
   <project name="LineageOS/proprietary_vendor_xiaomi_ido" path="vendor/xiaomi/ido" />
   <project name="LineageOS/android_device_xiaomi_ido" path="device/xiaomi/ido" />
