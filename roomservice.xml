@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" />
+<!--
   <project name="LineageOS/android_device_xiaomi_cancro" path="device/xiaomi/cancro" />
   <project name="LineageOS/android_kernel_xiaomi_cancro" path="kernel/xiaomi/cancro" />
   <project name="LineageOS/proprietary_vendor_xiaomi_cancro" path="vendor/xiaomi/cancro" />
+-->
+  <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" />
   <project name="LineageOS/proprietary_vendor_xiaomi_ido" path="vendor/xiaomi/ido" />
   <project name="LineageOS/android_device_xiaomi_ido" path="device/xiaomi/ido" />
   <project name="LineageOS/android_external_stlport" path="external/stlport" />
@@ -11,4 +13,13 @@
   <project name="LineageOS/android_kernel_xiaomi_msm8916" path="kernel/xiaomi/msm8916" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" />
   <project name="LineageOS/android_external_busybox" path="external/busybox" />
+  
+  <project name="LineageOS/android_vendor_xiaomi_tiffany" path="vendor/xiaomi/tiffany" revision="los-14.1" />
+  <project name="LineageOS/android_device_xiaomi_tiffany" path="device/xiaomi/tiffany" revision="los-14.1" />
+  <project name="LineageOS/android_kernel_xiaomi_msm8953" path="kernel/xiaomi/msm8953" revision="cm-14.1" />
+
+<!--
+  <remove-project name="LineageOS/android_bootable_recovery" />
+  <project name="omnirom/android_bootable_recovery" path="bootable/recovery" revision="android-7.1" />
+-->
 </manifest>
