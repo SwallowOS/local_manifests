@@ -8,7 +8,6 @@
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" />
   <project name="LineageOS/XServer-XSDL-android-src" path="XSDL" />
-  <project name="LineageOS/android_vendor_qcom_proprietary_msm8996" path="vendor/qcom/proprietary" />
 <!--
   <remove-project name="LineageOS/android_bootable_recovery" />
   <project name="omnirom/android_bootable_recovery" path="bootable/recovery" revision="android-7.1" />
