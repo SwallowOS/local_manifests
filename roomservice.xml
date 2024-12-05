@@ -3,11 +3,10 @@
   <project name="LineageOS/android_device_xiaomi_msm8998-common" path="device/xiaomi/msm8998-common" />
   <project name="LineageOS/android_device_xiaomi_sagit" path="device/xiaomi/sagit" />
   <project name="LineageOS/android_kernel_xiaomi_msm8998" path="kernel/xiaomi/msm8998" />
-  <project name="Halium/android_vendor_xiaomi" path="vendor/xiaomi" />
+  <project name="UbuntuTouch-sagit/android_vendor_xiaomi" path="vendor/xiaomi" />
   <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" />
   <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_frameworks" path="vendor/nxp-nfc/opensource/frameworks" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_libnfc-nci" path="vendor/nxp-nfc/opensource/libnfc-nci" />
   <project name="LineageOS/android_vendor_nxp-nfc_opensource_Nfc" path="vendor/nxp-nfc/opensource/Nfc" />
-  <project name="LineageOS/XServer-XSDL-android-src" path="XSDL" />
 </manifest>
